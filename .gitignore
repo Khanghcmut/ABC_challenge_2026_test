@@ -1,4 +1,4 @@
-*/WEAR/Raw_data/*.csv
-*/*/process_dataset.ipynb
+Inertial/WEAR/Raw_data/*.csv
+Inertial/WEAR/process_dataset.ipynb
 */*/*.ipynb_checkpoints
 __pycache__/

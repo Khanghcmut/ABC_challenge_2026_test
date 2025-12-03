@@ -1,0 +1,4 @@
+*/WEAR/Raw_data/*.csv
+*/*/process_dataset.ipynb
+*/*/*.ipynb_checkpoints
+__pycache__/
